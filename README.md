@@ -40,5 +40,5 @@ pandas, NumPy, matplotlib
 Kartikeya Mishra
 
 
-🗂 Save and export prediction history
+
 

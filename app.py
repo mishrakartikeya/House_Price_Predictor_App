@@ -59,7 +59,7 @@ st.markdown("<div class='main'>", unsafe_allow_html=True)
 
 
 st.markdown("---")
-st.markdown("<small>Made with by Kartikeya Mishra", unsafe_allow_html=True)
+st.markdown("<small>Made by Kartikeya Mishra", unsafe_allow_html=True)
 
 model = joblib.load("xgb_model.pkl")
 

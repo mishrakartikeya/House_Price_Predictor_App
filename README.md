@@ -36,5 +36,9 @@ pandas, NumPy, matplotlib
 
 🧭 Compare against nearby similar properties
 
+## 👨‍💻 Author
+Kartikeya Mishra
+
+
 🗂 Save and export prediction history
 
